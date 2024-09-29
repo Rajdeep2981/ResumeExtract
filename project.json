@@ -5,12 +5,14 @@
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.24.1]",
+    "UiPath.GSuite.Activities": "[2.7.22]",
     "UiPath.Mail.Activities": "[1.23.11]",
     "UiPath.OCR.Activities": "[3.21.0-preview]",
     "UiPath.PDF.Activities": "[3.20.0-preview]",
     "UiPath.System.Activities": "[24.11.0-preview]",
     "UiPath.Testing.Activities": "[24.10.2-preview]",
-    "UiPath.UIAutomation.Activities": "[24.11.1-preview]"
+    "UiPath.UIAutomation.Activities": "[24.11.1-preview]",
+    "UiPath.WorkflowEvents.Activities": "3.0.0"
   },
   "webServices": [],
   "entitiesStores": [],
